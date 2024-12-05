@@ -15,12 +15,12 @@ function Inicio() {
           backgroundImage: `linear-gradient(to bottom, rgba(255, 255, 255, 0) 70%, rgba(255, 255, 255, 1)), url(${fondo})`,
           backgroundSize: "cover",
           backgroundPosition: "center",
-          height: "50vh",
+          height: "40vh",
           width: "100%",
         }}
       >
         <div className="flex justify-center items-center h-full text-pink-400">
-          <h1 className="text-3xl md:text-5xl font-bold text-center font-OpenSans mt-20">
+          <h1 className="text-3xl md:text-5xl font-bold text-center font-OpenSans mb-12">
             ¡El verdadero lavado automático!
           </h1>
         </div>
